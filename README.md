@@ -171,5 +171,5 @@ Should I re-run the search with a smaller time window (Enter to skip)? - [ Enter
 ```
 
 ## Authors and Contact
-pi-a-314, MeinChef, Mini11e
+pistoe (old account: pi-a-314), MeinChef, Mini11e
 
